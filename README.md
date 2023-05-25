@@ -1,2 +1,2 @@
 # Unity-Car-VR
-VR Dealership ftw
+VR Dealership Demo
